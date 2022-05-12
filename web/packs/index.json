@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "MerkelPack.json"
+  ],
+  "homeserver_url": "https://sagt.xyz"
+}
