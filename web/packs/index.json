@@ -1,6 +1,8 @@
 {
   "packs": [
-    "MerkelPack.json"
+    "MerkelPack.json",
+    "derigelwohntjetzthier.json",
+    "rrerrnet.json"
   ],
   "homeserver_url": "https://sagt.xyz"
 }
