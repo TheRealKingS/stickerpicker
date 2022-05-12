@@ -1,4 +1,4 @@
-# Maunium sticker picker
+# Maunium sticker picker (FORK)
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
 
 ## Discussion
